@@ -23,8 +23,8 @@
 
 ## Fotografia:
 
-![**2019**](https://corbaz.github.io/jcc/assets/img/jcc%202019.png)
-
+![Image 2019](https://corbaz.github.io/jcc/assets/img/jcc%202019.png)
+**2019**
 
 ![Image 2015](https://github.com/corbaz/jcc/blob/master/assets/img/jcc.png?raw=true)
 
